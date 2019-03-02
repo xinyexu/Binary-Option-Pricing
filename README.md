@@ -17,6 +17,9 @@ Derivatives:  European, Expiration date = 3/21/08, K = Strike price = 146 <br />
 •	Analytical solution <br />
 •	Binomial <br />
 •	Monte Carlo <br />
-
 •	Deriving implied volatility from the option prices
+
+### Reference: 
+Pricing formula: 
+[Tomas_Bjork]Arbitrage Theory in Continuous Time, Chpater 17.1
 

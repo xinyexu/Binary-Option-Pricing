@@ -21,7 +21,7 @@ Derivatives:  European, Expiration date = 3/21/08, K = Strike price = 146 <br />
 
 ### Reference: 
 Pricing formula: 
-![alt text](https://github.com/xinyexu/Enrollment-Workshop/blob/master/Leverage%20Expectations%20and%20Bond%20Credit%20Spreads.png)
+![alt text](https://github.com/xinyexu/Binary-Option-Pricing/blob/master/pricing%20formula.png)
 
-[Tomas_Bjork]Arbitrage Theory in Continuous Time, Chpater 17.1
+[Tomas Bjork] Arbitrage Theory in Continuous Time, Chpater 17.1
 

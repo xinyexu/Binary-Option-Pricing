@@ -20,8 +20,8 @@ Derivatives:  European, Expiration date = 3/21/08, K = Strike price = 146 <br />
 •	Deriving implied volatility from the option prices
 
 ### Reference: 
-Pricing formula: 
+1. Pricing formula: 
 ![alt text](https://github.com/xinyexu/Binary-Option-Pricing/blob/master/pricing%20formula.png)
 
-[Tomas Bjork] Arbitrage Theory in Continuous Time, Chpater 17.1
+Source: [Tomas Bjork] Arbitrage Theory in Continuous Time, Chpater 17.1
 
